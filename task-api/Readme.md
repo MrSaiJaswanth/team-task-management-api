@@ -241,12 +241,6 @@ src/
 * **Exception** — Handles API errors
 * **Config** — Configures authentication and security
 
-## Design Decisions
-
-For a detailed explanation of the architecture, validation, error handling, authentication, storage approach, and assumptions, see:
-
-`DESIGN.md`
-
 ## Limitations
 
 This project intentionally keeps the implementation simple for a case study.
